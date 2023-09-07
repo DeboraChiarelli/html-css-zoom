@@ -30,6 +30,7 @@
     padding: 5px;
 }
 
+
 .img {
     width: 150px;
 }
@@ -62,13 +63,13 @@
     color: #FFF;
 }*/
 
+
 .bg-grey {
     background-color: #222222;
 }
 
 .container {
     padding: 30px; 
-    margin: 0 auto;
 }
 
 .row {
@@ -77,5 +78,11 @@
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+}
+
+.bg-lightgrey {
+    background-color: lightgrey;
+    padding: 30px;
+    color: red;
 }
 
