@@ -6,15 +6,30 @@
 
 #app {
     height: 100vh;
+    overflow: hidden;   
+}
+
+
+.bg-black {
     background-color: black;
-    overflow: hidden;
 }
 
-.content {
-    min-width: 900px;
+
+.img-container {
+    margin: 70px 100px 50px 100px;
 }
 
-.debug {
-    border: solid 1px white
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    position: relative;
+    padding: 5px;
+}
+
+.img {
+    width: 150px;
 }
 
