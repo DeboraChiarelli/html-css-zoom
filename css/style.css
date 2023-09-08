@@ -35,7 +35,7 @@
     width: 150px;
 }
 
-
+/* etichette */
 .icon {
     display: inline-block;
     background-color: rgb(94, 93, 93);
@@ -55,6 +55,7 @@
     background-color: #222222;
 }
 
+/* probabile soluzione per allineamento icone */
 /*.footer-icon {
     display: flex;
     justify-content: center;
@@ -63,7 +64,7 @@
     color: #FFF;
 }*/
 
-
+/* footer */
 .bg-grey {
     background-color: #222222;
 }
